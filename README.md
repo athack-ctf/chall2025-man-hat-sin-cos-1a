@@ -1,4 +1,4 @@
-# Chall - 🚹 🎩 sinθ/cosθ  part A
+# Chall - 🚹 🎩 sinθ/cosθ  part 1 A
 
 
 For the @hacks team only:
