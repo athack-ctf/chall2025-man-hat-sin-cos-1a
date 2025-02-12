@@ -1,77 +1,40 @@
-# Chall - Your Challenge Title
+# Chall - 🚹 🎩 sinθ/cosθ  part A
 
-> A brief description of the challenge
+
+For the @hacks team only:
+> The challenge title is formed of emojis, it reads as MAN-HAT-TAN = Manhattan. This challenge is the first part out of a series of the same name
+> Here's an overview of all OSINT challenges can be seen here: https://miro.com/app/board/uXjVLoszF8Q=/
 
 ## Type
 
 - [X] **OFF**line
 - [ ] **ON**line
 
-## Designer(s)
+## Designer
 
-- Ada Lovelace
-- Barbara Liskov
+- Oleander (Jeslyn)
 
-## Description
+## Description (for the challenge)
 
-A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
-goals and the skills it aims to test in participants.
+Ned and Roger asked you to transmit their proposal to Dr. Dexter, to which you have agreed. You walk up to Dr. Dexter’s office and knock at the door – no answer. You commuted for 2h just to get here and there is no way that you are returning back without having completed your task. So, using your lockpicking skills, you break into Dr. Dexter’s office. As you place the proposal on the desk, you notice a peculiar photograph featuring Dr. Dexter and some scientists in an unknown lab. Looking deeeeeplyyy into the photograph you notice something peculiar… 
+What a minute! This can’t be–
 
-**IMPORTANT:** This description will **NOT** be shared with participants.
+Can you find the geohash of the secret laboratory (hint: use a precision of 5 characters)?
 
-## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
-- `stegano`
-- `env`
-- `crypto`
+## Category
+
 - `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
-- `misc`
-
 ---
 
 # Project Structure
-
-## 1. HACKME.md
-
-- **[HACKME.md](HACKME.md)**: A teaser or description of the challenge to be shared with participants (in CTFd).
-
-## 2. Source Code
-
-- **[source/README.md](source/README.md)**: Comprehensive instructions on how to have a running instance of your
-  challenge from the source.
-  If your project includes multiple subprojects, please consult us (Anis and Hugo).
-- **[source/*](source/)**: Your source code.
-
+Participants will see the challenge's text description as well as the picture (the photograph)
 ## 3. Offline Artifacts [OPTIONAL]
 
-> **NOTE:** This directory is optional for online challenges. However, if offline artifacts need to be provided as well, 
-> they should be placed here.
 
-- **[offline-artifacts/*](offline-artifacts/)**: All files intended to be downloaded by participants
-  (e.g., a flagless version of the running binary executable of a pwn challenge).
-  For large files (exceeding 100 MB), please consult us (Anis and Hugo).
+- **[offline-artifacts/*](offline-artifacts/)**: photograph.png
 
 ## 4. Solution
 
 - **[solution/README.md](solution/README.md)**: A detailed writeup of the working solution.
-- **[solution/FLAGS.md](solution/FLAGS.md)**: A single markdown file listing all (up-to-date) flags.
-- **[solution/*](solution/)**: Any additional files or code necessary for constructing a reproducible solution for the
-  challenge (e.g., `PoC.py`, `requirement.txt`, etc.).
-
-## 5. Dockerization
-
-> **NOTE:** For deployment on @Hack's infrastructure, online challenges must be containerized.
-> However, this requirement does not apply during the early stages of challenge development, so do not hesitate to start
-> building your online challenge if you are unfamiliar with containerization.
-> We (Anis and Hugo) will take care of it.
-
-- **[source/Dockerfile](source/Dockerfile)**: Needed for building a containerized image of the online challenge.
-- **[source/docker-compose.yml](source/docker-compose.yml)**: Needed for a configuration-free run of the online
-  challenge
+  
