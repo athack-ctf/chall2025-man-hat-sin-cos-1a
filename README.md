@@ -2,7 +2,7 @@
 
 
 For the @hacks team only:
-> The challenge title is formed of emojis, it reads as MAN-HAT-TAN = Manhattan. This challenge is the first part out of a series of the same name
+> The challenge title is formed of emojis, it reads as MAN-HAT-TAN = Manhattan (the very first part is on the Manhattan Project). This challenge is the first part out of a series of the same name
 > Here's an overview of all OSINT challenges can be seen here: https://miro.com/app/board/uXjVLoszF8Q=/
 
 ## Type
