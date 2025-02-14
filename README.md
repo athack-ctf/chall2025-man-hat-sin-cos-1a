@@ -19,9 +19,13 @@ For the @hacks team only:
 Ned and Roger asked you to transmit their proposal to Dr. Dexter, to which you have agreed. You walk up to Dr. Dexter’s office and knock at the door – no answer. You commuted for 2h just to get here and there is no way that you are returning back without having completed your task. So, using your lockpicking skills, you break into Dr. Dexter’s office. As you place the proposal on the desk, you notice a peculiar photograph featuring Dr. Dexter and some scientists in an unknown lab. Looking deeeeeplyyy into the photograph you notice something peculiar… 
 What a minute! This can’t be–
 
-Can you find the geohash of the secret laboratory (hint: use a precision of 5 characters)?
+Can you find the geohash of the secret laboratory (hint: use a precision of 10 characters)?
 
 Photograph png added under the offline components 
+
+The geohash can be found with an online converter or with some code (Python), both cases give you the same result: 
+![image](https://github.com/user-attachments/assets/add2ef2a-967f-494b-ba51-a018f05d4d08)
+
 
 ## Category
 
