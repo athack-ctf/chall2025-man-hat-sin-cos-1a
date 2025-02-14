@@ -1,10 +1,8 @@
-The description of your challenge as seen by participants in CTFd. Try to make it feel within the theme
-of the event...
+Ned and Roger asked you to transmit their proposal to Dr. Dexter, to which you have agreed. You walk up to Dr. Dexter’s office and knock at the door – no answer. You commuted for 2h just to get here and there is no way that you are returning back without having completed your task. So, using your lockpicking skills, you break into Dr. Dexter’s office. As you place the proposal on the desk, you notice a peculiar photograph featuring Dr. Dexter and some scientists in an unknown lab. Looking deeeeeplyyy into the photograph you notice something peculiar… 
+What a minute! This can’t be–
 
----
-If your challenge is a multi-flag one (i.e., it consists of a sequence of sub-challenges each rewarded with
-its own flag), requiring a different description for each sub-challenge, then have your descriptions split as 
-done with this paragraph, and the next one.
+Can you find the geohash of the secret laboratory (hint: use a precision of 5 characters)?
+
 
 ---
 Obviously, for each sub-challenge, you should provide its flag value in [solution/FLAGS.md](solution/FLAGS.md).
