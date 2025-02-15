@@ -1,10 +1,6 @@
 # How to Solve the Challenge?
 
-Provide reproducible steps to solve the challenge. This can include:
+The lab is related to Université de Montreal, has hinted by the symbol of the suit of one of the picture's protagonist.
+Searching online shows connection to a secret lab "Montreal Laboratory"
 
-- Runnable code (e.g., `PoC.py`)
-- A Bash script or a sequence of commented commands
-- Well-explained instructions
-- ...
-
-Ensure that all dependencies required to build or run the solution are provided (e.g., `requirements.txt`) or thoroughly documented.
+https://geohash.softeng.co/f25dugu
