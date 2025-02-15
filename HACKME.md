@@ -3,4 +3,4 @@ What a minute! This can’t be–
 
 Can you find the geohash of the secret laboratory?
 
-NOTE: the flag has the format AHACKCTF{_} where _ is a geohash, in lowercase, with 7 characters precision.
+NOTE: the flag has the format `AHACKCTF{_}` where `_` is a geohash, in lowercase, with 7 characters precision. For instance, if the location if the Eiffel Tower, the flag would be `ATHACKCTF{u09tunq}`.

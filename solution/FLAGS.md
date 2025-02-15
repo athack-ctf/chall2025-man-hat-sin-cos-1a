@@ -1,2 +1,3 @@
 # FLAGS
-- `ATHACKCTF{f25duguu1z}` 
+
+- `ATHACKCTF{f25dugu}` 
